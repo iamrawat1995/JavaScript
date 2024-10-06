@@ -7,3 +7,7 @@ accountMail = "xyz321@gmail.com"
 
 console.log(accountMail);
 console.table([accountId,accountMail,accountCity,accountIp])
+accountCity = "Delhi"
+
+console.log(accountCity);
+
